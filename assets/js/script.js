@@ -39,8 +39,8 @@ $('.slider2').slick({
   slidesToShow: 1,
   slidesToScroll: 1,
   autoplay: true,
-  autoplaySpeed: 1500,
+  autoplaySpeed: 3000,
   infinite: true,
-  arrows:false
-  
+  arrows:false,
+  draggable: false
 });
