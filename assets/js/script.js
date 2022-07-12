@@ -73,3 +73,5 @@ $("#btnvalida").click(function(){
     $("#msgerror").html("El Rut no es válido");
   }
 });
+
+Fancybox.getInstance();
