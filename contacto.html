@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es-CL">
 
 <head>
   <meta charset="UTF-8">
@@ -32,7 +32,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link" aria-current="page" href="quienessomos.html">quiénes somos</a>
+            <a class="nav-link" aria-current="page" href="quienessomos.html">quienes somos</a>
             <a class="nav-link" href="productos.html">productos</a>
             <a class="nav-link" href="contacto.html">contacto</a>
           </div>
@@ -49,12 +49,20 @@
               <label for="nameInput" class="col-form-label">Nombre</label>
               <input type="text" class="form-control" id="namelInput" placeholder="Juan Perez">
             </div>
+            <!-- Verificador de Rut -->
+            <div class="input-group">
+              <label for="txt_rut" class="col-form-label">Rut</label>
+              <input type="text" class="form-control" id="txt_rut" placeholder="Digita tu Rut con guiom pero sin puntos" >
+            </div>
+            <button id="btnvalida" class="col-4 ms-auto">Valida RUT</button>
+            <p class="text-success" id="msgerror"></p>
+             <!-- Verificar de email -->
             <div class="input-group">
               <label for="emailInput" class="col-form-label">Correo</label>
               <input type="email" class="form-control" id="emailInput" placeholder="JuanPerez@email.com">
             </div>
             <div class="input-group">
-              <label for="city_id" class="class=" col-form-label"">Ciudad</label>
+              <label for="city_id" class="class=" col-form-label>Ciudad</label>
               <select class="form-select" id="city_id">
                 <option>Valparaíso</option>
                 <option>Viña del Mar</option>
