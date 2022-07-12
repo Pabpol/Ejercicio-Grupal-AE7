@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Te lo Vendo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.css"
+    integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"
+    integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+  <header class="header">
+    <h1>Empresa te lo vendo</h1>
+    <nav class=" navbar navbar-expand-lg navbar-light ">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">Home</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link" aria-current="page" href="index.html">quiénes somos</a>
+            <a class="nav-link" href="productos.html">productos</a>
+            <a class="nav-link" href="contacto.html">contacto</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+  </header>
+  <main class="main">
+
+    <div class="product-small col has-hover product type-product post-1000000055349 status-publish first instock product_cat-cassette product_tag-pop-rock product_tag-soft-rock has-post-thumbnail purchasable product-type-simple">
+    <div class="col-inner">
+    <div class="badge-container absolute left top z-1">
+    </div>
+    <div class="product-small box ">
+    <div class="box-image">
+    <div class="image-zoom">
+    <a href="https://musicjungle.cl/producto/phil-collins-both-sides-cassette-ed-chile-1993/" aria-label="Phil Collins - Both Sides (Cassette, Ed. Chile, 1993)">
+    <img width="247" height="247" src="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail entered lazyloaded" alt="" data-lazy-srcset="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg 247w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-400x400.jpeg 400w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-800x800.jpeg 800w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-280x280.jpeg 280w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-768x768.jpeg 768w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-510x510.jpeg 510w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-100x100.jpeg 100w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-rotated.jpeg 1488w" data-lazy-sizes="(max-width: 247px) 100vw, 247px" data-lazy-src="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg" data-ll-status="loaded" sizes="(max-width: 247px) 100vw, 247px" srcset="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg 247w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-400x400.jpeg 400w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-800x800.jpeg 800w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-280x280.jpeg 280w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-768x768.jpeg 768w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-510x510.jpeg 510w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-100x100.jpeg 100w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-rotated.jpeg 1488w"><noscript><img width="247" height="247" src="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" srcset="https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-247x247.jpeg 247w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-400x400.jpeg 400w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-800x800.jpeg 800w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-280x280.jpeg 280w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-768x768.jpeg 768w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-510x510.jpeg 510w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-100x100.jpeg 100w, https://musicjungle.cl/wp-content/uploads/2022/07/WhatsApp-Image-2022-06-27-at-7.59.20-PM-3-rotated.jpeg 1488w" sizes="(max-width: 247px) 100vw, 247px" /></noscript> </a>
+    </div>
+    <div class="image-tools is-small top right show-on-hover">
+    </div>
+    <div class="image-tools is-small hide-for-small bottom left show-on-hover">
+    </div>
+    <div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+    </div>
+    </div>
+    <div class="box-text box-text-products text-center grid-style-2">
+    <div class="title-wrapper"> <p class="category uppercase is-smaller no-text-overflow product-cat op-7">
+    Cassette </p>
+    <p class="name product-title woocommerce-loop-product__title"><a href="https://musicjungle.cl/producto/phil-collins-both-sides-cassette-ed-chile-1993/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Phil Collins – Both Sides (Cassette, Ed. Chile, 1993)</a></p></div><div class="price-wrapper">
+    <span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>10.900</bdi></span></span>
+    </div><div class="add-to-cart-button"><a href="?add-to-cart=1000000055349" data-quantity="1" class="primary is-small mb-0 button product_type_simple add_to_cart_button ajax_add_to_cart is-outline" data-product_id="1000000055349" data-product_sku="1000000055349" aria-label="Añade “Phil Collins - Both Sides (Cassette, Ed. Chile, 1993)” a tu carrito" rel="nofollow">Comprar</a></div> </div>
+    </div>
+    <small class="wcvendors_sold_by_in_loop">Vendedor : <a href="https://musicjungle.cl/vendors/MusicJungleCL/" class="wcvendors_cart_sold_by_meta">MusicJungleCL</a></small><br>
+    <span class="gtm4wp_productdata" style="display:none; visibility:hidden;" data-gtm4wp_product_id="1000000055349" data-gtm4wp_product_name="Phil Collins - Both Sides (Cassette, Ed. Chile, 1993)" data-gtm4wp_product_price="10900" data-gtm4wp_product_cat="Cassette" data-gtm4wp_product_url="https://musicjungle.cl/producto/phil-collins-both-sides-cassette-ed-chile-1993/" data-gtm4wp_product_listposition="1" data-gtm4wp_productlist_name="Lista general de productos" data-gtm4wp_product_stocklevel="1" data-gtm4wp_product_brand=""></span> </div>
+    </div>
