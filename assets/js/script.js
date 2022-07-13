@@ -68,9 +68,13 @@ var Fn = {
 
 $("#btnvalida").click(function(){
   if (Fn.validaRut( $("#txt_rut").val() )){
-    $("#msgerror").html("El rut ingresado es válido");
+    $("#msgsuccess").show().delay(5000).queue(function(n) {
+      $(this).hide(); n();
+    });
   } else {
-    $("#msgerror").html("El Rut no es válido");
+    $("#msgerror").show().delay(5000).queue(function(n) {
+      $(this).hide(); n();
+    });
   }
 });
 
