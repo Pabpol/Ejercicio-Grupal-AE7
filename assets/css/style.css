@@ -129,36 +129,24 @@ footer{
   justify-content: center;
 
 }
-.producto1{
+/* .producto1{
 	padding:20px;
 	border-radius:10px;
 	margin: auto;
 	background-color:#F87474;
 
-}
-.r1{
+} */
+/* r1{
   margin: 0 auto;
 	text-align: center;
   align-items: center;
-}
-.p1{
+} */
+
+.product{
   
-	border-radius:10px;
-	margin: 10px 20px 10px 10px;
-	background-color:#91d464;
-  
-}
-.p2{
-  
-	border-radius:10px;
-	margin: 10px 20px 10px 10px;
-	background-color:#69a045;
+	border-radius:20px;
+	margin: 10px;
+	/* background-color:#91d464; */
   
 }
-.p3{
-  
-	border-radius:10px;
-  margin: 10px 20px 10px 10px;
-	background-color:#91d464;
- 
-}
+
