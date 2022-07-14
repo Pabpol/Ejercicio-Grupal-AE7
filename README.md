@@ -1,10 +1,10 @@
 # Sprint Final Módulo 2
 ## _Grupo 4_
-[Live demo](https://pabpol.github.io/Etch-a-Sketch/)
+[Live demo](https://pabpol.github.io/Ejercicio-Grupal-AE7/index.html)
 
-Proyecto de pagina web para empresa "Te lo Vendo"
+Proyecto de página web para empresa "Te lo Vendo"
 solicitado como entregable para el fin del módulo.
-#### Tecnologias usadas:
+#### Tecnologías usadas:
 - HTML
 - CSS
 - JavaScript
