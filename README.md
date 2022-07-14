@@ -19,6 +19,8 @@ Se puede navegar entre las páginas a través de la barra de navegación.
 
 En el formulario de contacto hay un validador de RUT hecho en JavaScript.
 
+En productos, se pueden agregar productos llenando el formulario oculto.
+
 #### Colaboradores:
 - Claudia Maraboli
 - Cristian Llanos
