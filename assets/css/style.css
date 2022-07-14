@@ -20,7 +20,6 @@ a {
 p {
   text-align: center; 
   text-transform:uppercase;
-  
 }
 nav{
     display: flex;
@@ -59,18 +58,15 @@ form label{
 	font-weight:bold;
 	display:inline-block;
 }
-
 .form-check-label {
   width: auto;
 }
-
 .labelchek{
   text-align: left;
   margin-top: 5px;
   margin-bottom: 5px;
   margin-left: -20px;
 }
-
 textarea{
 	width:100%;
 	height:150px;
@@ -109,7 +105,6 @@ img{
   max-width: 1200px;
   padding: 20px;
   font-family: 'Roboto', sans-serif;
-  
 }
 main h3{
   text-align: center;
@@ -127,26 +122,9 @@ footer{
   text-align: center;
   display: flex;
   justify-content: center;
-
 }
-/* .producto1{
-	padding:20px;
-	border-radius:10px;
-	margin: auto;
-	background-color:#F87474;
-
-} */
-/* r1{
-  margin: 0 auto;
-	text-align: center;
-  align-items: center;
-} */
-
 .product{
-  
-	border-radius:20px;
+  border-radius:20px;
 	margin: 10px;
-	/* background-color:#91d464; */
-  
 }
 
