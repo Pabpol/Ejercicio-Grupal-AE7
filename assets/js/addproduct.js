@@ -67,7 +67,7 @@ $("#addproduct-form").submit(async function(form) {
                 height="200" alt="` + value.description + `"></a>
               <p class="namproducto">` + value.description + `</p>
               <p class="typproducto">` + value.tipoprod + `</p>
-              <span class="priproducto">` + value.price + `</span>
+              <p class="priproducto">` + value.price + `</p>
             </div>
 
             `
