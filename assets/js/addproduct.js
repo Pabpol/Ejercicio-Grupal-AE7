@@ -60,14 +60,16 @@ $("#addproduct-form").submit(async function(form) {
     $.each(productos, function(key, value) {
         $("#AllProductos").append(
             `
-            <div class="producto p2 col-xl-3 col-12" id=` + value.id +` >
-                <a data-fancybox data-src="` + value.imageURL + `" 
-                data-caption="` + value.description + `">
-                <img  class="imgproducto" src=` + value.imageURL + `></a>
-                <p class="namproducto">` + value.description + `</p>
-                <p class="typproducto">` + value.tipoprod + `</p>
-                <span class="priproducto">` + value.price + `</span>
-            </div> 
+            <div class="product col-xl-3 col-12 justify-content-center" id=` + value.id +`>
+            <a data-fancybox data-src="` + value.imageURL + `"
+              data-caption="` + value.description + `">
+              <img class="container p-0 imgproducto" src=` + value.imageURL + `
+                height="200" alt="` + value.description + `"></a>
+              <p class="namproducto">` + value.description + `</p>
+              <p class="typproducto">` + value.tipoprod + `</p>
+              <span class="priproducto">` + value.price + `</span>
+            </div>
+
             `
         );
     });
