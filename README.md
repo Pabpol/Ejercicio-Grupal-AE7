@@ -24,5 +24,5 @@ En el formulario de contacto hay un validador de RUT hecho en JavaScript.
 - Cristian Llanos
 - Pablo Cifuentes
 - Pablo Polanco
-- Valentina Pávez
+- Valentina Pavez
 - Loreto Ormeño
